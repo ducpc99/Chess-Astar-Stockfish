@@ -22,7 +22,7 @@
 
 ## Basic Structure of the Web Application
 
-![Chess Game](./static/image.png)
+![Chess Game](./static/css/image.png)
 
 - **`ChessWeb/chessWeb`**: This directory contains files for managing and deploying the web application.
   
